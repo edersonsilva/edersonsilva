@@ -45,8 +45,8 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<a href="https://twitter.com/codevops/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-codevops-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://twitter.com/edcodevops/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edcodevops-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/edersonsilva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edersonsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
