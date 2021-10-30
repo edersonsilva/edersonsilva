@@ -10,7 +10,7 @@
 
 - ▶️ Coming soon post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
 
-- ⚡ I'm  [Palmeiras](https://www.youtube.com/palmeiras) supporter**
+-  I'm  [Palmeiras](https://www.youtube.com/palmeiras) supporter**
 
 <br><br>
 
