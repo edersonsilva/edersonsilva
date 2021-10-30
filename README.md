@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [edersonsilva](https://github.com/edersonsilva?tab=repositories)
 
-- ▶️ I regularly post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
+- ▶️ Coming soon post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
 
 - ⚡ I'm  [Palmeiras](https://www.youtube.com/palmeiras) supporter**
 
