@@ -1,9 +1,8 @@
-
-
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/edersonsilva/00637375d90ba7df584a53820c48dfaf/raw/c89e0f4a600d00426a06d6f2f32ba0f4d8c5c49a/githubcard.svg" />
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ederson Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonsilva&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Delphi Developer & focused in learning stack NodeJS, ReactJs e React Native.
+- 🔥 Software Developer & Founder/CEO on [Codevops Tecnologia](https://codevops.com)
 
 - 🔭 I’m currently working on [SG Sistemas](https://sgsistemas.com.br)
 
