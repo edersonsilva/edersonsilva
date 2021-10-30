@@ -10,8 +10,6 @@
 
 - ▶️ I regularly post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
 
-- 💬 Ask me about **Delphi, JavaScript, HTML, CSS, SQL, Node.JS**
-
 - ⚡ I'm  [Palmeiras](https://www.youtube.com/palmeiras) supporter**
 
 <br><br>
