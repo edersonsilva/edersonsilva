@@ -45,7 +45,9 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-
+<a href="https://twitter.com/edcodevops/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-edcodevops-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
 <a href="https://linkedin.com/in/edersonsilva" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-edersonsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
@@ -57,7 +59,7 @@
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=edersonsilva&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=edcodevops&layout=wide&show_reply=off&show_retweet=off" />
 
 
 <!--
