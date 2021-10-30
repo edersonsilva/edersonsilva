@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [SG Sistemas](https://sgsistemas.com.br)
 
-- 👨‍💻 All of my projects are available at [codevops.com](https:/codevops.com)
+- 👨‍💻 All of my projects are available at [edersonsilva](https://github.com/edersonsilva?tab=repositories)
 
 - ▶️ I regularly post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
 
@@ -45,10 +45,6 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://twitter.com/codevops/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-codevops-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
