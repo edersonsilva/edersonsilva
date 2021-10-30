@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Delphi, JavaScript, HTML, CSS, SQL, Node.JS**
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ I'm  [Palmeiras](https://www.youtube.com/palmeiras) supporter**
 
 <br><br>
 
