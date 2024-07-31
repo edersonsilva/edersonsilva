@@ -4,8 +4,6 @@
 
 - 🔥 Software Developer & Founder/CEO on [Codevops Tecnologia](https://codevops.com)
 
-- 🔭 I’m currently working on [SG Sistemas](https://sgsistemas.com.br)
-
 - 👨‍💻 All of my projects are available at [edersonsilva](https://github.com/edersonsilva?tab=repositories)
 
 - ▶️ Coming soon post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
