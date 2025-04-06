@@ -2,13 +2,11 @@
 <h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ederson Silva</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edersonsilva&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Software Developer & Founder/CEO on [Codevops Tecnologia](https://codevops.com)
+- 🔥 Software Developer 
 
 - 👨‍💻 All of my projects are available at [edersonsilva](https://github.com/edersonsilva?tab=repositories)
 
 - ▶️ Coming soon post videos on [youtube.com/codevops](https://www.youtube.com/channel/UCKJY0PgxWB5Df2CT2BP_q6w)
-
-- 🐷 I'm  [Palmeiras](https://www.youtube.com/palmeiras) supporter**
 
 <br><br>
 
